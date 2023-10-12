@@ -5,7 +5,11 @@ Smart-UI
 This project devises a UI for a futuristic design of a smart table. Through multiple iterations of interviews and design prototypes, I envision a futuristic table with multiple motors to adjust the height of the table, a simple UI to control the motors, along various functionalities, such as the ability to sync your phone and watch to the UI and charge them at the same time along with your airpods. For the UI, I envision an iPad-like interface with a simple scroll at the top, a customizable home screen depending on the user, an option to add to-do list items and delete them per the user's convenience, a notification block showing different important notifcations, an option to select which user is using the app, along with app icons for the users apple watch, airpods and iphone if/when they're connected.
 
 I envision the smart UI would be sort of a rotateable interface sitting on top the desk, along with a connecter that connects the users devices to the desk. In certain cases, the rotatable device sitting on top of test could potentially be used a secondary monitor.
+
+
+
 <img width="969" alt="table-2" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/1f33ed1a-9878-4ba1-9ec0-5b9cbdeb3dfc">
+
 
 ## Requirements and interview findings
 
@@ -79,6 +83,24 @@ Then, depending on if the user has connected their apple devices to the UI, thes
 <img width="380" alt="Screen Shot 2023-10-12 at 11 32 06 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/476be328-9adc-43d8-a1d8-baf643430c2b">
 
 THen I have the notifications, which remind you of the important tasks coming up. For an actual UI,ideally, these would get information from the Canvas app on the users iphone, and project upcoming appointments in one section, and then information from other productivity apps in the other notifications. Ideally there could be more than three notiifcations.
+
+<img width="499" alt="Screen Shot 2023-10-12 at 11 37 40 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/0c8400fe-31b0-4edf-a6e7-2e25fb288bf6">
+
+Then I have the users section. Now that I think about it, I missed out on a crucial part of this UI component where the user selected would be a different color, or maybe have their name show up on the screen as a welcome message. I believe I had this on my roadmap but I completely forgot about it until now, here is how it looks right now. The users are objects defined in my code which have a savestate, so depending on which user is selected, the apps change along with a save state for the scroll bar.
+
+<img width="622" alt="Screen Shot 2023-10-12 at 11 38 05 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/8a459844-1423-4108-b44a-83424870af93">
+
+Finally, I have the notes section, where users can add their to-do's for the day and remove them manually as well. ideally, this would be an automated process in an actual UI where the user's to-do list is monitored by some code that connects to the other apps, and if it find a relation, it automatically deleted the to-do. Such as, a users to-do could be Completing their homework, and as soon as they submit it in canvas, they get rewarded by the to-do item magically being deleted and maybe a congratulations message being displayed on the screen.
+
+Adding two to-do items: 
+
+<img width="1410" alt="Screen Shot 2023-10-12 at 11 46 26 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/6b6ca99e-14ea-4dcd-b4a0-735c785d8401">
+
+Deleting one of the two to-do items:
+
+<img width="1418" alt="Screen Shot 2023-10-12 at 11 48 10 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/ae7df8d8-63c6-49f1-b0de-d41b6ca0940e">
+
+
 
 
 
