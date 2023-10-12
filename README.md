@@ -48,11 +48,37 @@ o	Kartik believes sturdy construction is important.
 o	Yes, Kartik would appreciate it if the desk was made from eco-friendly materials or is recyclable.
 
 Thus, after taking in all the feedback, I deciced to base my UI for the smart desk on the follwing:
-a) Simple UI with familiar design.
-b) Productivity apps such as notes, calender and timer on the main screen.
-c) Scroll bar for adjusting the incline of the desk, set for different users.
-d) Large desk size with the monitor for the UI be used as a secondary screen.
-e) Notification features such as reminding user to take a break, or remdinding them of the homework due. I chose to have a timer on when the homework is due such that it keeps the user on their toes and gives them appropriate time to prepare for it.
-f) UI integrates with different apps such as canvas or the calender.
+- Simple UI with familiar design.
+- Productivity apps such as notes, calender and timer on the main screen.
+- Scroll bar for adjusting the incline of the desk, set for different users.
+- Large desk size with the monitor for the UI be used as a secondary screen.
+-  Notification features such as reminding user to take a break, or remdinding them of the homework due. I chose to have a timer on when the homework is due such that it keeps the user on their toes and gives them appropriate time to prepare for it.
+-   UI integrates with different apps such as canvas or the calender. UI also integrates with the users iphone and apple watch, provided them give permission.
+
+
+## My interface
+
+My interface is comprised of 5 main parts:
+
+Starting from the left-hand side, i have the 3 main apps that are rotated according to the prefernece of the user. For Example, for user Nachi, these are the icons:
+
+<img width="1406" alt="Screen Shot 2023-10-12 at 11 26 04 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/b0845fa5-80b0-4669-a002-233a8aed8829">
+
+Whereas for user Jenna, these are the icons: 
+
+<img width="1395" alt="Screen Shot 2023-10-12 at 11 28 51 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/dfacda10-e339-4fcb-84f2-cdeb76820dd0">
+
+Then we have the scroll bar, which if the user decided to set at a certain level, it then retains the original value set by the selected user.
+
+Then we have the main four apps in the home screen, which, for the sake of simplicity, I decided to not change depending on the user. They're all productivity apps.
+
+<img width="348" alt="Screen Shot 2023-10-12 at 11 31 39 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/b1d5e160-5c44-4b8b-87f5-ac54e3239fa4">
+
+Then, depending on if the user has connected their apple devices to the UI, these icons show the battery being charged:
+
+<img width="380" alt="Screen Shot 2023-10-12 at 11 32 06 PM" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/476be328-9adc-43d8-a1d8-baf643430c2b">
+
+THen I have the notifications, which remind you of the important tasks coming up. For an actual UI,ideally, these would get information from the Canvas app on the users iphone, and project upcoming appointments in one section, and then information from other productivity apps in the other notifications. Ideally there could be more than three notiifcations.
+
 
 
