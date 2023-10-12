@@ -1,4 +1,14 @@
-Smart-UI
+# Smart-UI
+
+### Prerequisites
+
+Before getting started, make sure you have Node.js and npm (Node Package Manager) installed on your system. You can check your installations by running the following commands in your terminal:
+
+```shell
+node -v
+npm -v
+```
+
 
 ## Description
 
