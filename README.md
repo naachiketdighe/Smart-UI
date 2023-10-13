@@ -20,6 +20,11 @@ I envision the smart UI would be sort of a rotateable interface sitting on top t
 
 <img width="969" alt="table-2" src="https://github.com/naachiketdighe/Smart-UI/assets/88009707/1f33ed1a-9878-4ba1-9ec0-5b9cbdeb3dfc">
 
+## design exploration and the prototype interface design
+
+[![Clickable Image](https://www.golfbissenmoor.de/wp-content/uploads/2020/06/pdf.icon_.png)](https://pdfhost.io/v/FXUclJFre_CamScanner_09202023_2309)
+
+
 
 ## Requirements and interview findings
 
