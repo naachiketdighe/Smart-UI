@@ -9,9 +9,9 @@ node -v
 npm -v
 ```
 
-## Design Prototpe
+## design exploration and the prototype interface design
 
-You can find the pdf for design prototyping by click [here](https://www.golfbissenmoor.de/wp-content/uploads/2020/06/pdf.icon_.png)
+You can find the pdf for design prototyping by clicking [here](https://www.golfbissenmoor.de/wp-content/uploads/2020/06/pdf.icon_.png)
 
 
 ## Description
